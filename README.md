@@ -31,7 +31,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/centos.svg" alt="CentOS" width="20" height="20" align="center"> CentOS
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" alt="Debian" width="20" height="20" align="center"> Debian
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora-alt.svg" alt="Fedora" width="20" height="20" align="center"> Fedora
-- <img src="images/icons/redhat-color.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
+- <img src="https://github.com/mdmjunior/mdmjunior/blob/main/images/icons/redhat-color.svg" alt="Red Hat" width="20" height="20" align="center"> Red Hat
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" width="20" height="20" align="center"> Ubuntu
 - <img src="images/icons/freebsd-color.svg" alt="FreeBSD" width="20" height="20" align="center"> FreeBSD
 - <img src="images/icons/solaris-color.svg" alt="Solaris" width="20" height="20" align="center"> Oracle Solaris
